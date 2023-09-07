@@ -46,7 +46,7 @@ FING que te mapea todos los dispositivos.
 Apunta el IP ADDRESS NUEVO 
 >> <USERNAME>@<IP ADDRESS>
 
-Azure IoT Reference Architecture :electron:
+# Azure IoT Reference Architecture :electron:
 
 
 
