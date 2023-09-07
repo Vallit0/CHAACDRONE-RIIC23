@@ -1,4 +1,4 @@
-# Configuracion Orange Pi
+# Configuracion Orange Pi 🍊
 
 ## PASO 1
 1. Buscar una MICRO SD que funcionara como Hard Disk
@@ -35,7 +35,7 @@ Si no aparece nada, no importa.
 >> find 
 
 >> cat /proc/cpuinfo
-## PASO 4
+
 Configurar Network (DESDE TU COMPUTADOR)
 Conecta el OrangePi Zero a tu Router 
 >> nmap -sn [INSERTAR TU RED]/24 (network Map, Search Networks buscamos hosts. Un host es un computador que puede recibir y/o enviar datos. Un host se identifica con un IP ADDRESS) 
@@ -45,3 +45,8 @@ FING que te mapea todos los dispositivos.
 
 Apunta el IP ADDRESS NUEVO 
 >> <USERNAME>@<IP ADDRESS>
+
+Azure IoT Reference Architecture :electron:
+
+
+
