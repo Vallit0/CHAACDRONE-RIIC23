@@ -58,4 +58,10 @@ Uno de los problemas que se dieron durante la ejecución del proyecto fue el uso
 '''cmd
 >> az iot hub monitor-events --hub-name <<NOMBRE_TU_HUB>> --device-id <<NOMBRE_TU_DISPOSITIVO>>
 '''
+# ¿Cómo sabmos cuantos datos son necesarios para una medición ótpima? 📚 
+Para esto, se debe hacer uso de Estadística Inferencial. Para ello, acdimos a lo llamada 
+## Intervalos de Confianza 
+https://newprairiepress.org/cgi/viewcontent.cgi?article=1397&context=agstatconference
+
+Bajo este estudio, es posible notar que 
 
