@@ -56,6 +56,6 @@ Uno de los problemas que se dieron durante la ejecución del proyecto fue el uso
 
 # Azure IoT Reference Architecture :electron:
 
-
+>> az iot hub monitor-events --hub-name <<NOMBRE_TU_HUB>> --device-id <<NOMBRE_TU_DISPOSITIVO>>
 
 
