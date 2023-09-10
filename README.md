@@ -1,4 +1,5 @@
 # Rally Interdepartamental de Innovación 4.0 (SENACYT) 🧑‍🔬 🗺️
+# Equipo Chaac 🥬 
 # Configuracion Orange Pi 🍊
 
 ## PASO 1
