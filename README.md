@@ -1,3 +1,4 @@
+# Rally Interdepartamental de Innovación 4.0 (SENACYT) 🧑‍🔬 🗺️
 # Configuracion Orange Pi 🍊
 
 ## PASO 1
@@ -46,7 +47,14 @@ FING que te mapea todos los dispositivos.
 Apunta el IP ADDRESS NUEVO 
 >> <USERNAME>@<IP ADDRESS>
 
+# Python, Librerías y Dependencias :snake:
+Uno de los problemas que se dieron durante la ejecución del proyecto fue el uso de Python 3.6 pues Orange Pi solamente permite el uso hasta la versión Python 5, este problema es algo interesante pues la integración directa con Azure se lleva a cabo por medio de un SDK (Librería en Python) y el análisis de imágenes y correlación de datos con múltiples librerías como Tensorflow y OpenCV, así que fue necesario un cambio. 
+
+## Actualización Sistema Operativo 🖥️
+
+
 # Azure IoT Reference Architecture :electron:
+
 
 
 
