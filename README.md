@@ -55,7 +55,7 @@ Uno de los problemas que se dieron durante la ejecución del proyecto fue el uso
 # Pinout y Necesario 🔌
 
 # Azure IoT Reference Architecture :electron:
-
+'''cmd
 >> az iot hub monitor-events --hub-name <<NOMBRE_TU_HUB>> --device-id <<NOMBRE_TU_DISPOSITIVO>>
-
+'''
 
