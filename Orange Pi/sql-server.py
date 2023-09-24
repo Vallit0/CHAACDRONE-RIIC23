@@ -1,21 +1,21 @@
 import pyodbc
 import random
 import datetime
-import openai
+#import openai
 
 # Configura tu clave de API de OpenAI
-api_key = "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"
+#api_key = "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"
 
 # Función para generar descripciones usando la API de OpenAI
 def generate_description(humidity, temperature, pressure, soil_temperature, soil_humidity):
-    prompt = "Genera una descripción breve sobre las variables que te dare mas adelante y que me dicen de mi campo, variables de Atterberg y estado de la tierra: de los siguientes valores humedad" + str(humidity) + " humedad en tierra" + str(soil_humidity) + ": presion" + str(pressure) + ": temperatura"+ str(temperature) + " temperatura en la tierra" + str(soil_temperature) + "alta verapaz, guatremala"
-    response = openai.Completion.create(
-        engine="text-davinci-002",
-        prompt=prompt,
-        max_tokens=50,  # Ajusta la longitud de la respuesta según sea necesario
-        api_key=api_key
-    )
-    return response.choices[0].text.strip()
+    #prompt = "Genera una descripción breve sobre las variables que te dare mas adelante y que me dicen de mi campo, variables de Atterberg y estado de la tierra: de los siguientes valores humedad" + str(humidity) + " humedad en tierra" + str(soil_humidity) + ": presion" + str(pressure) + ": temperatura"+ str(temperature) + " temperatura en la tierra" + str(soil_temperature) + "alta verapaz, guatremala"
+    #response = openai.Completion.create(
+    #    engine="text-davinci-002",
+    #    prompt=prompt,
+    #    max_tokens=50,  # Ajusta la longitud de la respuesta según sea necesario
+    #    api_key=api_key
+    #)
+    return "descripcion" #response.choices[0].text.strip() "
 
 def main():
     # Configura la cadena de conexión
