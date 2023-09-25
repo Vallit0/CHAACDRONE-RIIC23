@@ -63,5 +63,7 @@ Para esto, se debe hacer uso de Estadística Inferencial. Para ello, acdimos a l
 ## Intervalos de Confianza 
 https://newprairiepress.org/cgi/viewcontent.cgi?article=1397&context=agstatconference
 
-Bajo este estudio, es posible notar que 
+Bajo este estudio, es posible notar que solamente se deben realizar 12 muestreos maximos si se asume **Normalidad** en los datos. 
+## Estado del Arte de Vuelos Autonomos
+https://la.mathworks.com/help/uav/ug/approximate-high-fidelity-uav-model-with-guidance-model.html
 
