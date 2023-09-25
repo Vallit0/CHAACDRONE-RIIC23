@@ -58,6 +58,14 @@ Uno de los problemas que se dieron durante la ejecución del proyecto fue el uso
 '''cmd
 >> az iot hub monitor-events --hub-name <<NOMBRE_TU_HUB>> --device-id <<NOMBRE_TU_DISPOSITIVO>>
 '''
+>>
+>> # Crear un grupo de recursos
+az group create --name myResourceGroup --location eastus
+
+# Crear un IoT Hub
+az iot hub create --name myIoTHub --resource-group myResourceGroup --sku S1
+
+
 # ¿Cómo sabmos cuantos datos son necesarios para una medición ótpima? 📚 
 Para esto, se debe hacer uso de Estadística Inferencial. Para ello, acdimos a lo llamada 
 ## Intervalos de Confianza 
@@ -73,8 +81,10 @@ En esta sección, específicamente se hizo uso de el concepto de proceso estocá
 2. Regresión de Árbol
 
 Estos datos demostraron una varianza alta. 
-![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
-![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
-![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
-![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
+![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/vuelo2.PNG)
+![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/Atterberg.PNG)
+![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/humedadTemp.PNG)
+![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/regresion.PNG)
+![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/regresion2.PNG)
+
 
