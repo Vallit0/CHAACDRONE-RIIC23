@@ -73,3 +73,8 @@ En esta sección, específicamente se hizo uso de el concepto de proceso estocá
 2. Regresión de Árbol
 
 Estos datos demostraron una varianza alta. 
+![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
+![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
+![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
+![Logo de mi proyecto](https://github.com/tuusuario/turepositorio/blob/main/imagen.png)
+
