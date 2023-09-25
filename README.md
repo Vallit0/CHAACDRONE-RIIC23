@@ -80,7 +80,6 @@ En esta sección, específicamente se hizo uso de el concepto de proceso estocá
 1. Regresión Lineal
 2. Regresión de Árbol
 
-Estos datos demostraron una varianza alta. 
 ![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/vuelo2.PNG)
 ![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/Atterberg.PNG)
 ![Logo de mi proyecto](https://github.com/Vallit0/CHAACDRONE-RIIC23/blob/main/simulink/humedadTemp.PNG)
