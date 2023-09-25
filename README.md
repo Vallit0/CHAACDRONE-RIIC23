@@ -66,4 +66,10 @@ https://newprairiepress.org/cgi/viewcontent.cgi?article=1397&context=agstatconfe
 Bajo este estudio, es posible notar que solamente se deben realizar 12 muestreos maximos si se asume **Normalidad** en los datos. 
 ## Estado del Arte de Vuelos Autonomos
 https://la.mathworks.com/help/uav/ug/approximate-high-fidelity-uav-model-with-guidance-model.html
+# Simulaciones de Vuelo, toma de datos y generación de datos de humedad y temperatura por medio Cadenas De Markov 
+En esta sección, específicamente se hizo uso de el concepto de proceso estocástico para la toma de datos. Principalmente, se utilizaron algunos modelos para la predicción de la toma de datos en un ámbito real. 
 
+1. Regresión Lineal
+2. Regresión de Árbol
+
+Estos datos demostraron una varianza alta. 
